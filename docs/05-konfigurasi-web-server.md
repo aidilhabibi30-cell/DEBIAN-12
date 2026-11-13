@@ -47,14 +47,6 @@ http://IP-ADDRESS-SERVER
 
 Jika berhasil, halaman default Apache2 akan muncul.
 
-7. Hasil
-
-Tambahkan screenshot:
-
-* Instalasi Apache2.
-* Status Apache2.
-* Tampilan halaman default Apache2 di browser.
-
-8. Kesimpulan
+7. Kesimpulan
 
 Apache2 merupakan aplikasi Web Server yang dapat digunakan untuk menjalankan website pada sistem operasi Debian 12.
