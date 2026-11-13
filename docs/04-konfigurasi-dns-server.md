@@ -42,10 +42,6 @@ atau:
 
 nslookup example.com
 
-7. Hasil
-
-Tambahkan screenshot instalasi BIND9, status layanan, dan hasil pengujian DNS.
-
-8. Kesimpulan
+7. Kesimpulan
 
 DNS Server membantu menerjemahkan nama domain menjadi alamat IP sehingga komunikasi jaringan menjadi lebih mudah.
