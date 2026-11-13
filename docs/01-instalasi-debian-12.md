@@ -27,10 +27,6 @@ Perangkat dan kebutuhan:
 9. Selesaikan proses instalasi.
 10. Restart sistem.
 
-4. Hasil
-
-Bagian ini akan diisi dengan screenshot proses instalasi Debian 12.
-
-5. Kesimpulan
+4. Kesimpulan
 
 Instalasi Debian 12 merupakan langkah awal untuk mempelajari administrasi sistem Linux dan konfigurasi server.
