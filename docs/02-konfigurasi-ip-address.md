@@ -36,10 +36,6 @@ Gunakan perintah:
 
 ping -c 4 8.8.8.8
 
-7. Hasil
-
-Tambahkan screenshot hasil pemeriksaan IP Address dan koneksi jaringan.
-
-8. Kesimpulan
+7. Kesimpulan
 
 Konfigurasi IP Address merupakan bagian penting dalam administrasi jaringan agar server dapat berkomunikasi dengan perangkat lain.
