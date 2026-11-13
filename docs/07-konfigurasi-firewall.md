@@ -35,10 +35,6 @@ sudo ufw enable
 
 sudo ufw status verbose
 
-8. Hasil
-
-Tambahkan screenshot hasil konfigurasi dan status firewall.
-
-9. Kesimpulan
+8. Kesimpulan
 
 UFW membantu administrator mengelola aturan firewall sehingga akses jaringan pada server dapat dikontrol dengan lebih mudah.
