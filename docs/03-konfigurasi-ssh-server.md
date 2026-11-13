@@ -35,10 +35,6 @@ sudo systemctl enable ssh
 
 Lakukan pengujian koneksi SSH menggunakan perangkat lain dalam jaringan lokal.
 
-7. Hasil
-
-Tambahkan screenshot instalasi dan status SSH Server.
-
-8. Kesimpulan
+7. Kesimpulan
 
 SSH Server membantu administrator mengelola server Debian 12 dari jarak jauh melalui koneksi jaringan yang aman.
