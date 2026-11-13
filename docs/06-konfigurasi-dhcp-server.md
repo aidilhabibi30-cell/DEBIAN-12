@@ -53,10 +53,6 @@ sudo systemctl status isc-dhcp-server
 
 Hubungkan perangkat client ke jaringan laboratorium dan periksa apakah perangkat mendapatkan IP Address secara otomatis.
 
-8. Hasil
-
-Tambahkan screenshot konfigurasi DHCP Server dan hasil pengujian client.
-
-9. Kesimpulan
+8. Kesimpulan
 
 DHCP Server mempermudah administrator jaringan dalam membagikan IP Address secara otomatis kepada perangkat client.
